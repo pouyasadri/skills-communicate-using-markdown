@@ -1,2 +1,8 @@
 # pouyasadri
 ![Image of me](https://avatars.githubusercontent.com/u/29605128?v=4)
+
+```bash
+mkdir pouyasadri
+cd puuyasadri
+ls -a
+```
